@@ -41,5 +41,4 @@ gem 'spring',        group: :development
 gem 'pry', '~> 0.10.1'
 gem 'better_errors', '~> 2.1.1'
 
-aomwdkmsakld
 
